@@ -1,0 +1,32 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-Wall",
+      "-std=gnu99",
+      "-I./inc",
+      "-c",
+      "-o",
+      "src/errExit.o",
+      "src/errExit.c"
+    ],
+    "directory": "/home/sam/os_exam_simulation/solution/ex_2",
+    "file": "/home/sam/os_exam_simulation/solution/ex_2/src/errExit.c",
+    "output": "/home/sam/os_exam_simulation/solution/ex_2/src/errExit.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-Wall",
+      "-std=gnu99",
+      "-I./inc",
+      "-c",
+      "-o",
+      "src/main.o",
+      "src/main.c"
+    ],
+    "directory": "/home/sam/os_exam_simulation/solution/ex_2",
+    "file": "/home/sam/os_exam_simulation/solution/ex_2/src/main.c",
+    "output": "/home/sam/os_exam_simulation/solution/ex_2/src/main.o"
+  }
+]
